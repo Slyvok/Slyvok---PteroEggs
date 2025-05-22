@@ -34,7 +34,7 @@
     },
     "scripts": {
         "installation": {
-            "script": "#!\/bin\/bash\r\ncd \/mnt\/server\r\napk --update add git curl file unzip tar autoconf automake git wget jq\r\ncurl -o install.sh https:\/\/raw.githubusercontent.com\/Ashu11-A\/Ashu_eggs\/main\/Connect\/pt-BR\/Paper%20Optimized\/install.sh\r\nchmod a+x .\/install.sh\r\n.\/install.sh\r\nrm .\/install.sh",
+            "script": "#!\/bin\/bash\r\ncd \/mnt\/server\r\napk --update add git curl file unzip tar autoconf automake git wget jq\r\ncurl -o install.sh https:\/\/raw.githubusercontent.com\/Slyvok\/APISLY\/refs\/heads\/main\/Connect\/paper-1.0.0\/install.sh\r\nchmod a+x .\/install.sh\r\n.\/install.sh\r\nrm .\/install.sh",
             "container": "ghcr.io\/slyvok\/installers:alpine",
             "entrypoint": "bash"
         }
