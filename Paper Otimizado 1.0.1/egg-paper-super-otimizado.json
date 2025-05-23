@@ -25,7 +25,7 @@
         "Java 22 Zulu": "ghcr.io\/trenutoo\/pterodactyl-images:java_22_zulu"
     },
     "file_denylist": [],
-    "startup": "bash <(curl -s https:\/\/raw.githubusercontent.com\/Slyvok\/APISLY\/main\/Connect\/paper-1.0.0\/launch.sh)",
+    "startup": "bash <(curl -s https:\/\/raw.githubusercontent.com\/Slyvok\/SLY_API\/main\/Connect\/paper-1.0.0\/launch.sh)",
     "config": {
         "files": "{\r\n    \"server.properties\": {\r\n        \"parser\": \"properties\",\r\n        \"find\": {\r\n            \"server-ip\": \"0.0.0.0\",\r\n            \"network-compression-threshold\": \"512\",\r\n            \"server-port\": \"{{server.build.default.port}}\",\r\n            \"query.port\": \"{{server.build.default.port}}\"\r\n        }\r\n    }\r\n}",
         "startup": "{\r\n    \"done\": \")! For help, type \"\r\n}",
