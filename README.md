@@ -46,7 +46,7 @@
 
 | Jogo                | Descrição            | Arquitetura | Link do Egg |
 |---------------------|----------------------|-------------|-------------|
-| Minecraft (Paper+)  | Ultra otimizado      | x86_64/ARM  | [egg-paper-super-optimized.json](./Eggs/pt-BR/games/egg-paper-super-optimized.json) |
+| Minecraft (Paper+)  | Ultra otimizado      | x86_64/ARM  | [egg-paper-super-optimized.json](./Paper Otimizado 1.0.1/egg-paper-super-otimizado.json) |
 | Em breve...         | Novo jogo chegando!  | x86_64/ARM  | 🔒 |
 | Em breve...         | Novo jogo chegando!  | x86_64/ARM  | 🔒 |
 
